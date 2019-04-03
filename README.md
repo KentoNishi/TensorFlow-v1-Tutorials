@@ -6,4 +6,4 @@ A collection of TensorFlow programs, following the official [TensorFlow Tutorial
 * Keras
 * Numpy
 * MatPlotLib
-* __future__
+* Future
