@@ -7,3 +7,6 @@ A collection of TensorFlow programs, following the official [TensorFlow Tutorial
 * Numpy
 * MatPlotLib
 * Future
+
+## Additional Information
+* All examples are functional in TensorFlow 2.0.0-alpha0 for Windows.
