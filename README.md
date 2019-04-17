@@ -1,4 +1,4 @@
-# TensorFlow Sandbox
+# TensorFlow v1 Tutorials
 A collection of TensorFlow programs, following the official [TensorFlow Tutorial](https://www.tensorflow.org/tutorials).
 This repository was archived because of the creation of the new 2.0 tutorials.
 
